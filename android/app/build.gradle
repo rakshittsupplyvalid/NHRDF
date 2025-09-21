@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.advanceddigitalsignatureapp"
+    namespace "com.rakshit1234.advanceddigitalsignatureapp"
     defaultConfig {
-        applicationId 'com.rakshit1234.AdvancedDigitalSignatureApp'
+        applicationId 'com.rakshit1234.advanceddigitalsignatureapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

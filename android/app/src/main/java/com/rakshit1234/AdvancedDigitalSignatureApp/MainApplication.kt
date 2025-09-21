@@ -1,4 +1,4 @@
-package com.rakshit1234.AdvancedDigitalSignatureApp
+package com.rakshit1234.advanceddigitalsignatureapp
 
 import android.app.Application
 import android.content.res.Configuration
